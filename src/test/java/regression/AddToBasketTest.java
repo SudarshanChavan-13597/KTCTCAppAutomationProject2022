@@ -71,6 +71,11 @@ public class AddToBasketTest extends TestBase{
 		sAssert.assertAll();
 	}
 	
+	@Test
+	public void VerifyUserCanPlaceTheOrder()
+	{
+		System.out.println("changes made by sudarshan");
+	}
 	
 	
 	
